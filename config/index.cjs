@@ -48,7 +48,7 @@ const USER_CONFIG = {
     birthdayMessage: true,
 
     // 学生课表
-    courseSchedule: false,
+    courseSchedule: true,
   },
 
   /** 每日一言 */
@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ouxQ26vaAvOfP3RJI6D4Gd_DfkEI',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '-UL2QzZ-lITTprRu9lSnzefu4DTnINY1pb-9Ebkl58o',
+      useTemplateId: 'pwF7KFwZX1rFaJMGBmZoWvfHFbXslzB-DDvj2oNu_J0',
       // 所在省份
       province: '广东',
       // 所在城市
